@@ -1,5 +1,6 @@
 # hello-world
-Empezando el repositorio hello-world
+
+HISTORIA
 
 Los Dioses Heréticos Merlín y Morgana se unen en un proyecto común para crear al rey perfecto. Utilizando el sistema de invocación de héroes del Grial como base, crean clones reales de Arturia y Mordred con la mayoría de sus memorias, pero sin ser realmente ellas. Con ellas como base empiezan a experimentar.
 
